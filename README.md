@@ -1,5 +1,7 @@
 # What Grows Together
 
+https://jc0h3n.github.io/what-grows-together/
+
 A small static web app for looking up flavor pairings: what an ingredient goes with, when it's in season, how it's usually cooked, and which cuisines lean on it.
 
 - **Ingredient cards** with classic and good pairings, season, taste and techniques
